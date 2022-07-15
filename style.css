@@ -18,6 +18,30 @@ main{
     float: left;
     background-color: springgreen;
 }
+main section:first-child{
+    width: 100%;
+}
+main section h2{
+    background-color: chocolate;
+    width: 96%;
+    padding: 2%;
+}
+main section img{
+    width: 40%;
+    margin: 3%;
+    display: block;
+    float: left;
+}
+main section article{
+    width: 45%;
+    display: block;
+    float: left;
+    margin-top: 3%;
+}
+main section article h4{
+    font-size: x-large;
+    margin-bottom: 2%;
+}
 /* ASIDE */
 aside{
     width: 30%;
