@@ -26,6 +26,13 @@ aside{
     float: left;
     background-color: yellowgreen;
 }
+aside section img{
+    width: 41%;
+    height: 90px;
+    display: block;
+    float: left;
+    margin: 4%;
+}
 /* FOOTER */
 footer{
     width: 100%;
