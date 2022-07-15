@@ -53,6 +53,13 @@ aside section:first-child ul{
 aside section:first-child ul li{
     margin-top: 5px;
 }
+aside section img{
+    width: 41%;
+    height: 90px;
+    display: block;
+    float: left;
+    margin: 4%;
+}
 /* FOOTER */
 footer{
     width: 100%;
