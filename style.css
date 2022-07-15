@@ -26,6 +26,12 @@ aside{
     float: left;
     background-color: yellowgreen;
 }
+aside form input{
+    width: 94%;
+    padding: 3%;
+    font-style: italic;
+    border: none;
+}
 /* FOOTER */
 footer{
     width: 100%;
