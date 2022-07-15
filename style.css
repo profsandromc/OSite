@@ -22,10 +22,17 @@ header{
 /* MAIN */
 main{
     width: 70%;
-    height: 500px;
+    height: auto;
     display: block;
     float: left;
     background-color: springgreen;
+}
+main section{
+    width: 45%;
+    margin: 2%;
+    display: block;
+    float: left;
+    height: auto;
 }
 main section:first-child{
     width: 100%;
@@ -41,8 +48,11 @@ main section img{
     display: block;
     float: left;
 }
-main section article{
+main section:first-child article{
     width: 45%;
+}
+main section article{
+    width: 100%;
     display: block;
     float: left;
     margin-top: 3%;
